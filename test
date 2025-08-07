@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -102,8 +102,8 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="md:flex md:items-center md:justify-between">
                 <div class="md:w-1/2 mb-10 md:mb-0">
-                    <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">Building Stronger Communities Together</h1>
-                    <p class="text-xl mb-8">CDPNY is dedicated to fostering community development through education, empowerment, and engagement initiatives across New York.</p>
+                    <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">Growing Our Community Together</h1>
+                    <p class="text-xl mb-8">CDPNY is dedicated to fostering community development through sports, academic activities for youth, and recreational programs for seniors in New York.</p>
                     <div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
                         <a href="#signup" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg text-lg font-medium transition duration-300 text-center">Join Our Mission</a>
                         <a href="#about" class="bg-white hover:bg-gray-100 text-blue-600 px-6 py-3 rounded-lg text-lg font-medium transition duration-300 text-center">Learn More</a>
@@ -130,10 +130,19 @@
                 </div>
                 <div class="md:w-1/2">
                     <h3 class="text-2xl font-bold text-gray-900 mb-4">Our Mission</h3>
-                    <p class="text-gray-600 mb-6">Founded in 2010, the Community Development Project New York (CDPNY) is a nonprofit organization committed to creating sustainable change in underserved communities across New York. We believe in the power of collective action and community-driven solutions.</p>
+                    <p class="text-gray-600 mb-6">To grow our community through sports and academic activities for our youth, adults and recreational programs for seniors.</p>
+                    <ul class="list-disc pl-5 space-y-2 text-gray-600 mb-6">
+                        <li>Empowering Communities</li>
+                        <li>Be the source of positivity</li>
+                        <li>Help us make a difference</li>
+                        <li>Let's do this together!</li>
+                        <li>Be part of something bigger</li>
+                        <li>We're all in this together</li>
+                        <li>Creating a brighter tomorrow</li>
+                    </ul>
                     
                     <h3 class="text-2xl font-bold text-gray-900 mb-4">Our Vision</h3>
-                    <p class="text-gray-600 mb-6">We envision a New York where every neighborhood thrives, where residents have equal access to resources, opportunities, and the tools they need to shape their own futures.</p>
+                    <p class="text-gray-600 mb-6">Creating a brighter tomorrow by being the source of positivity and making a difference in our community. We're all in this together!</p>
                     
                     <div class="grid grid-cols-2 gap-4">
                         <div class="bg-blue-50 p-4 rounded-lg">
@@ -317,78 +326,6 @@
         </div>
     </section>
 
-    <!-- Testimonials Section -->
-    <section class="py-20 bg-gray-50">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="text-center mb-16">
-                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Community Voices</h2>
-                <p class="text-xl text-gray-600 max-w-3xl mx-auto">Hear from those who have been impacted by our work.</p>
-                <div class="w-20 h-1 bg-blue-600 mx-auto mt-4"></div>
-            </div>
-            
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <div class="bg-white p-8 rounded-lg shadow-lg">
-                    <div class="flex items-center mb-4">
-                        <div class="text-yellow-400 text-xl mr-2">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                    </div>
-                    <p class="text-gray-600 italic mb-6">"The financial literacy program changed my life. I went from living paycheck to paycheck to saving for my children's education. CDPNY gave me the tools to build a better future."</p>
-                    <div class="flex items-center">
-                        <img src="https://randomuser.me/api/portraits/women/32.jpg" alt="Maria G." class="w-12 h-12 rounded-full mr-4">
-                        <div>
-                            <h4 class="font-bold text-gray-900">Maria G.</h4>
-                            <p class="text-sm text-gray-500">Program Participant</p>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="bg-white p-8 rounded-lg shadow-lg">
-                    <div class="flex items-center mb-4">
-                        <div class="text-yellow-400 text-xl mr-2">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                    </div>
-                    <p class="text-gray-600 italic mb-6">"As a volunteer with CDPNY, I've seen firsthand how their programs transform neighborhoods. The youth leadership initiative is particularly inspiring - our kids are becoming community leaders."</p>
-                    <div class="flex items-center">
-                        <img src="https://randomuser.me/api/portraits/men/45.jpg" alt="James T." class="w-12 h-12 rounded-full mr-4">
-                        <div>
-                            <h4 class="font-bold text-gray-900">James T.</h4>
-                            <p class="text-sm text-gray-500">Volunteer</p>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="bg-white p-8 rounded-lg shadow-lg">
-                    <div class="flex items-center mb-4">
-                        <div class="text-yellow-400 text-xl mr-2">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                        </div>
-                    </div>
-                    <p class="text-gray-600 italic mb-6">"Our partnership with CDPNY has allowed us to extend our services to more families in need. Their community-centered approach is a model for effective nonprofit work."</p>
-                    <div class="flex items-center">
-                        <img src="https://randomuser.me/api/portraits/women/68.jpg" alt="Dr. Lisa M." class="w-12 h-12 rounded-full mr-4">
-                        <div>
-                            <h4 class="font-bold text-gray-900">Dr. Lisa M.</h4>
-                            <p class="text-sm text-gray-500">Community Partner</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Signup Section -->
     <section id="signup" class="py-20 bg-white">
@@ -480,10 +417,6 @@
                                     <i class="fas fa-map-marker-alt"></i>
                                 </div>
                             </div>
-                            <div class="ml-4">
-                                <h4 class="font-bold text-gray-900">Address</h4>
-                                <p class="text-gray-600">123 Community Drive<br>New York, NY 10001</p>
-                            </div>
                         </div>
                         
                         <div class="flex items-start">
@@ -494,7 +427,7 @@
                             </div>
                             <div class="ml-4">
                                 <h4 class="font-bold text-gray-900">Phone</h4>
-                                <p class="text-gray-600">(212) 555-1234</p>
+                                <p class="text-gray-600">1 (718) 730-3311</p>
                             </div>
                         </div>
                         
@@ -506,40 +439,64 @@
                             </div>
                             <div class="ml-4">
                                 <h4 class="font-bold text-gray-900">Email</h4>
-                                <p class="text-gray-600">info@cdpny.org</p>
+                                <p class="text-gray-600">MyCDPNY@gmail.com</p>
                             </div>
                         </div>
                         
-                        <div class="flex items-start">
-                            <div class="flex-shrink-0 mt-1">
-                                <div class="w-10 h-10 rounded-full bg-blue-100 flex items-center justify-center text-blue-600">
-                                    <i class="fas fa-clock"></i>
-                                </div>
-                            </div>
-                            <div class="ml-4">
-                                <h4 class="font-bold text-gray-900">Hours</h4>
-                                <p class="text-gray-600">Monday - Friday: 9:00 AM - 5:00 PM<br>Saturday: 10:00 AM - 2:00 PM</p>
-                            </div>
-                        </div>
                     </div>
                     
                     <div class="mt-8">
                         <h4 class="font-bold text-gray-900 mb-4">Follow Us</h4>
                         <div class="flex space-x-4">
-                            <a href="#" class="w-10 h-10 rounded-full bg-blue-600 text-white flex items-center justify-center hover:bg-blue-700 transition duration-300">
+                            <a href="https://facebook.com/myCDPNY" class="w-10 h-10 rounded-full bg-blue-600 text-white flex items-center justify-center hover:bg-blue-700 transition duration-300">
                                 <i class="fab fa-facebook-f"></i>
                             </a>
-                            <a href="#" class="w-10 h-10 rounded-full bg-blue-400 text-white flex items-center justify-center hover:bg-blue-500 transition duration-300">
+                            <a href="https://twitter.com/myCDPNY" class="w-10 h-10 rounded-full bg-blue-400 text-white flex items-center justify-center hover:bg-blue-500 transition duration-300">
                                 <i class="fab fa-twitter"></i>
                             </a>
-                            <a href="#" class="w-10 h-10 rounded-full bg-pink-600 text-white flex items-center justify-center hover:bg-pink-700 transition duration-300">
+                            <a href="https://instagram.com/myCDPNY" class="w-10 h-10 rounded-full bg-pink-600 text-white flex items-center justify-center hover:bg-pink-700 transition duration-300">
                                 <i class="fab fa-instagram"></i>
-                            </a>
-                            <a href="#" class="w-10 h-10 rounded-full bg-blue-700 text-white flex items-center justify-center hover:bg-blue-800 transition duration-300">
-                                <i class="fab fa-linkedin-in"></i>
                             </a>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Board of Directors -->
+    <section class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Board of Directors</h2>
+                <div class="w-20 h-1 bg-blue-600 mx-auto"></div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="text-center px-4">
+                    <img src="https://via.placeholder.com/150" alt="Mohammed A. W. Sarwar" class="w-28 h-28 rounded-full mx-auto mb-4">
+                    <h3 class="text-lg font-bold leading-tight">Mohammed A. W. Sarwar</h3>
+                    <p class="text-gray-600 text-sm">Director</p>
+                </div>
+                <div class="text-center px-4">
+                    <img src="https://via.placeholder.com/150" alt="Shabbir M. Ahmed" class="w-28 h-28 rounded-full mx-auto mb-4">
+                    <h3 class="text-lg font-bold leading-tight">Shabbir M. Ahmed</h3>
+                    <p class="text-gray-600 text-sm">Director</p>
+                </div>
+                <div class="text-center px-4">
+                    <img src="https://via.placeholder.com/150" alt="Anwar Khan" class="w-28 h-28 rounded-full mx-auto mb-4">
+                    <h3 class="text-lg font-bold leading-tight">Anwar Khan</h3>
+                    <p class="text-gray-600 text-sm">Director</p>
+                </div>
+                <div class="text-center px-4">
+                    <img src="https://via.placeholder.com/150" alt="M. Juned Ahmed" class="w-28 h-28 rounded-full mx-auto mb-4">
+                    <h3 class="text-lg font-bold leading-tight">M. Juned Ahmed</h3>
+                    <p class="text-gray-600 text-sm">Director</p>
+                </div>
+                <div class="text-center px-4">
+                    <img src="https://via.placeholder.com/150" alt="Moksud Mohammed" class="w-28 h-28 rounded-full mx-auto mb-4">
+                    <h3 class="text-lg font-bold leading-tight">Moksud Mohammed</h3>
+                    <p class="text-gray-600 text-sm">Director</p>
                 </div>
             </div>
         </div>
@@ -551,7 +508,8 @@
             <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
                 <div>
                     <img src="https://via.placeholder.com/150x50?text=CDPNY+Logo" alt="CDPNY Logo" class="h-10 mb-4">
-                    <p class="text-gray-400">Building stronger communities through education, empowerment, and engagement.</p>
+                    <p class="text-gray-400">Growing our community through sports, academics and recreational programs.</p>
+                    <p class="text-gray-400 mt-2">Website: <a href="https://myCDPNY.com" class="text-blue-400 hover:text-white">myCDPNY.com</a></p>
                 </div>
                 
                 <div>
@@ -599,4 +557,3 @@
         </div>
     </footer>
 
-    
